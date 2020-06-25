@@ -1,0 +1,9 @@
+Vue - Laravel Project
+
+For the website, run command:
+php artisan serve
+it will run on localhost:8000
+
+For the real time chat via socket.io, run command:
+node public/js/index
+the tunnel will be established on localhost:3001
